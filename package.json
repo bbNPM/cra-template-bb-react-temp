@@ -1,0 +1,28 @@
+{
+  "main": "template.json",
+  "name": "cra-template-bb-react-temp",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "bb-react-temp"
+  ],
+  "author": "BananaBb",
+  "description": "The base template with folder structure for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BananaBb/cra-template-bb-react-temp"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/BananaBb/cra-template-bb-react-temp/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
